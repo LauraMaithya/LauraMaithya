@@ -13,7 +13,7 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: LauraMaithya
-          outputs: dist/github-contribution-grid-snake.svg
+          outputs: dist/github-contribution-grid-snake.svg?color_snake=bb9af7&color_dots=#16161e,#2a273f,#7aa2f7,#bb9af7,#c0caf5
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
