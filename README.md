@@ -41,7 +41,7 @@ Final year Computer Science student at Strathmore University with hands-on exper
 
 ## Connect With Me
 
-- 💼 **Professional Network:** [Link to your LinkedIn, Portfolio, or CV]
+- 💼 **Professional Network:** 
 - 📧 **Direct Contact:** lauratechie@gmail.com || 0750053903
 
 <p align="center">
