@@ -23,12 +23,11 @@ Final year Computer Science student at Strathmore University with hands-on exper
 ---
 
 ## GitHub Stats
-*Note: These data visualization modules automatically update based on your GitHub activity.*
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LauraMaithya&show_icons=true&count_private=true&hide_border=true&bg_color=0f0c29&title_color=67e8f9&icon_color=67e8f9&text_color=ffffff" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LauraMaithya&layout=compact&count_private=true&hide_border=true&bg_color=0f0c29&title_color=67e8f9&text_color=ffffff" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LauraMaithya&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0f0c29&title_color=67e8f9&icon_color=67e8f9&text_color=ffffff" />
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LauraMaithya&layout=compact&hide_border=true&bg_color=0f0c29&title_color=67e8f9&text_color=ffffff" />
 </p>
 
 <p align="center">
@@ -36,8 +35,9 @@ Final year Computer Science student at Strathmore University with hands-on exper
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LauraMaithya&bg_color=0f0c29&color=67e8f9&line=67e8f9&point=ffffff&area=true&hide_border=true&custom_title=Laura%20Maithya's%20Contribution%20Graph" />
+  <img src="https://raw.githubusercontent.com/LauraMaithya/LauraMaithya/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
+
 
 ---
 
